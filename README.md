@@ -1,6 +1,6 @@
 # House price estimate
 
-* **Developer**: [Mengyu Sun](https://github.com/pennysun3)
+* **Developer**: [Penny Sun](https://github.com/pennysun3)
 * **Product Owner**: [Jill Fan](https://github.com/jill-fan)
 * **QA**: [Logan Wilson](https://github.com/lwilson18)
 
