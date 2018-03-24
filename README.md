@@ -4,6 +4,7 @@
 * **Product Owner**: [Jill Fan](https://github.com/jill-fan)
 * **QA**: [Logan Wilson](https://github.com/lwilson18)
 
+------------
 * **Vision**: 
 Build a house price estimate application so that consumers can get easy access to home value information by entering a list of criteria, and build up a trusted marketplaces for real estate information in the U.S.
 
