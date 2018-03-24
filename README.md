@@ -4,7 +4,8 @@
 
 
 * **Vision**: 
-Build a house price estimate application so that consumers can get easy access to home value information by entering a list of criteria, and build up a trusted marketplaces for real estate information in the U.S.
+Build a house price estimate application so that consumers can get easy access to home value information by entering a list of criteria, and build up a trusted marketplaces for real estate information in the U.S.
+
 * **Mission**: 
 Based on statistical and machine learning models that analyze large set of data points on each property. and continually improving the RMSE prediction error. This will be done using a random forest model or a XGBoost model that is trained with the [Kaggle Iowa State House Sale Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
@@ -12,7 +13,6 @@ The goal of the project is to help people discover the music they may enjoy by p
 
 * **SuccessCriteria**: Successfully deployed a web application that dynamically shows a house price estimate according to users? input.
 
-For this project, we used Pivotal Tracker, an Agile Project Management Software, to keep track of the overall progress. The pivotal tracker page for this project can be reached by clicking on [this link](https://www.pivotaltracker.com/n/projects/2142050).
 
 Suggested steps to deploy app
 ------------
@@ -67,8 +67,13 @@ Suggested steps to deploy app
 Application Screenshot
 ------------
 
-![](https://github.com/pennysun3/HousePricePrediciton/tree/master/screenshots/page1.png)
-![](https://github.com/pennysun3/HousePricePrediciton/tree/master/screenshots/page2.png)
+![](https://github.com/pennysun3/HousePricePrediction/blob/master/screenshots/page1.jpg)
+![](https://github.com/pennysun3/HousePricePrediction/blob/master/screenshots/page2.jpg)
+
+PivotalTracker
+------------
+For this project, we used Pivotal Tracker, an Agile Project Management Software, to keep track of the overall progress. The pivotal tracker page for this project can be reached by clicking on [this link](https://www.pivotaltracker.com/n/projects/2142050).
+
 
 Documentation
 ------------
