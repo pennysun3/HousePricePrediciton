@@ -1,7 +1,8 @@
 # House price estimate
 
-"Build up a trusted marketplace for real estate info in the US" is really more the vision for the project - the motivation for why you are carrying out the project while the how you're going to do this - build a house price estimate application - should be the mission - what you're set out to do to work towards your vision. Success criteria - how did you decide this metric? This is sufficient for now, at some point you will need to define what level of error is acceptable for deployment.
-
+* **Developer**: [Johnny Chiu](https://github.com/pennysun3)
+* **Product Owner**: [Jill Fan](https://github.com/jill-fan)
+* **QA**: [Logan Wilson](https://github.com/lwilson18)
 
 * **Vision**: 
 Build a house price estimate application so that consumers can get easy access to home value information by entering a list of criteria, and build up a trusted marketplaces for real estate information in the U.S.
@@ -9,9 +10,7 @@ Build a house price estimate application so that consumers can get easy access t
 * **Mission**: 
 Based on statistical and machine learning models that analyze large set of data points on each property. and continually improving the RMSE prediction error. This will be done using a random forest model or a XGBoost model that is trained with the [Kaggle Iowa State House Sale Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
-The goal of the project is to help people discover the music they may enjoy by providing them a list of recommended songs according to their favorite musicians and songs. T
-
-* **SuccessCriteria**: Successfully deployed a web application that dynamically shows a house price estimate according to users? input.
+* **SuccessCriteria**: Successfully deployed a web application that dynamically shows a house price estimate according to user input.
 
 
 Suggested steps to deploy app
@@ -77,10 +76,12 @@ For this project, we used Pivotal Tracker, an Agile Project Management Software,
 
 Documentation
 ------------
-* `modelSelectionAndTuning.ipynb`: Jupyter Notebook that contains a walkthrough of the overall model building, model selection and parameter tuning. [[jupyter notebook](https://github.com/johnnychiuchiu/Music-Recommender/blob/refactor/directory/src/notebooks/modelSelectionAndTuning.ipynb)]
+* `EDA`: Jupyter Notebook that contains a walkthrough of the EDA. [[jupyter notebook](https://github.com/pennysun3/HousePricePrediction/blob/master/develop/EDA/House_EDA.ipynb)]
 
-* `latentFactorModel.ipynb`: An old version of the overall model building process. [[jupyter notebook](https://github.com/johnnychiuchiu/Music-Recommender/blob/sprint_1/develop/notebooks/latentFactorModel.ipynb)]
+* `Random Forest Model`: A walkthrough of the overall random model building process. [[jupyter notebook](https://github.com/pennysun3/HousePricePrediction/blob/master/develop/Model/RandomForest_Model.py)]
 
-* Step by step guide for database, environment and sphinx documentation set up. [[Github Wiki](https://github.com/johnnychiuchiu/Music-Recommender/wiki)]
+* `XGBoost Model`: An old version of the overall model building process. [[jupyter notebook](https://github.com/pennysun3/HousePricePrediction/blob/master/develop/Model/House_XGBoost_Model.ipynb)]
 
-* You can find the slides for this project [here](https://github.com/pennysun3/HousePricePrediciton/tree/master/House_Presentation.pdf).
+* Step by step guide for database, environment and sphinx documentation set up. [[Github Wiki](https://github.com/pennysun3/HousePricePrediction/wiki)]
+
+* You can find the slides for this project [here](https://github.com/pennysun3/HousePricePrediction/blob/master/House_Presentation.pdf).
